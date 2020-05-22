@@ -14,4 +14,4 @@ Checkout more about this program:
 - https://www.edx.org/course/using-python-research-harvardx-ph526x
 - https://www.youtube.com/watch?v=kxgaxL9CndA
 
-
+[alt text](https://github.com/riteshgajera/python-for-research/blob/master/plots/correlations.png" Correlations")
