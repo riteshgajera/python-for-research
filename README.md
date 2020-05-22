@@ -1,5 +1,5 @@
 # Python for research!
-Recently, I have gone through __HarvardX: PH526x__ program launched by __Harvard University__. However, I have find very interesting case studies. I have resolved few of them. Here, I am going to share.
+Recently, I have gone through __HarvardX: PH526x__ program launched by __Harvard University__. However, I have find very interesting case studies. I have resolved all of them. Here, I am going to share.
 
 What you'll learn...
 ---
