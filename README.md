@@ -14,4 +14,15 @@ Checkout more about this program:
 - https://www.edx.org/course/using-python-research-harvardx-ph526x
 - https://www.youtube.com/watch?v=kxgaxL9CndA
 
-
+![Correlations](https://github.com/riteshgajera/python-for-research/blob/master/plots/correlations.png)
+![dms](https://github.com/riteshgajera/python-for-research/blob/master/plots/dms.png)
+![er diagram](https://github.com/riteshgajera/python-for-research/blob/master/plots/er1.png)
+![Histogram](https://github.com/riteshgajera/python-for-research/blob/master/plots/hist3.png)
+![karate graph](https://github.com/riteshgajera/python-for-research/blob/master/plots/karate_graph.png)
+![maps](https://github.com/riteshgajera/python-for-research/blob/master/plots/map.png)
+![KNN](https://github.com/riteshgajera/python-for-research/blob/master/plots/knn_synth_5.png)
+![KNN](https://github.com/riteshgajera/python-for-research/blob/master/plots/knn_synth_50.png)
+![PCA](https://github.com/riteshgajera/python-for-research/blob/master/plots/pca.png)
+![Village Histogram](https://github.com/riteshgajera/python-for-research/blob/master/plots/village_hist.png)
+![Village1](https://github.com/riteshgajera/python-for-research/blob/master/plots/village1.png)
+![Village2](https://github.com/riteshgajera/python-for-research/blob/master/plots/village2.png)
